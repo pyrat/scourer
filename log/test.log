@@ -1,0 +1,5 @@
+
+
+Processing ScourerController#skiklubben to xml (for 0.0.0.0 at 2008-12-06 13:40:02) [GET]
+Rendering scourer/skiklubben
+Completed in 899ms (View: 103 | 200 OK [http://test.host/skiklubben.xml?format=xml]

@@ -1,0 +1,2 @@
+module ScourerHelper
+end

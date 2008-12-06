@@ -1,0 +1,519 @@
+<scraper-file>
+<!--
+Url:   http://www.skiklubben.no/index.php?option=com_content&task=view&id=476&Itemid=111
+Index: http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=39&Itemid=111
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Velkommen til www.skiklubben.no! - Føremelding mandag 1 desember</title>
+<meta name="title" content="Føremelding mandag 1 desember" />
+<meta name="author" content="Sverre Hosen" />
+<meta name="description" content="Trondhjems Skiklub - Markas velforening, Markas velforening med et bredt tilbud av vinteraktiviteter for alle som vil ut på tur i Trondheim!" />
+<meta name="keywords" content="skiklub, skileik, skistua,føremelding, trondh, skikurs, dagens løype, gråkallen,skiinstruktør, skiheis, snøbrett, bymarka, marka, velforening,friluftsliv, veteranene" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+	<link href="http://www.skiklubben.no/images/favicon.ico" rel="shortcut icon" />
+	<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
+<meta content="text/css" http-equiv="Content-Style-Type" />
+<link href="http://www.skiklubben.no/templates/ja_mercury/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="http://www.skiklubben.no/templates/ja_mercury/css/colors/default.css" rel="stylesheet" type="text/css" />
+
+<link href="http://www.skiklubben.no/templates/ja_mercury/ja_transmenu/ja-transmenuh.css" rel="stylesheet" type="text/css" />
+					<script language="javascript" type="text/javascript" src="http://www.skiklubben.no/templates/ja_mercury/ja_transmenu/ja-transmenu.js"></script>
+
+<script language="javascript" type="text/javascript" src="http://www.skiklubben.no/templates/ja_mercury/scripts/ja_script.js"></script>
+</head>
+<body class="wide fs3" id="bd">
+	<div id="ja-top">
+		<div id="ja-top-modules">
+			<div id="ja-logo">
+				<a href="index.php"><img src="http://www.skiklubben.no/templates/ja_mercury/images/logo-default.jpg" alt="Velkommen til www.skiklubben.no!" /></a>
+			</div>
+	</div>
+	
+	<!-- BEGIN: TOPNAV -->
+	<div class="clearfix" id="ja-topnav">
+		<div class="wide fs3" id="ja-topnav-inner">
+			<!-- Begin menu -->
+<ul id="ja-transmenu"><li><a href="http://www.skiklubben.no/index.php?option=com_frontpage&amp;Itemid=77" class="mainlevel-trans" id="menu77"><span>Start</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu78"><span> Skiklubben</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu90"><span>Vinter</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu100"><span>Sommer</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu105"><span>Kurs</span></a></li><li><a href="#" class="havechild-mainlevel-active-trans" id="menu110"><span>Marka i dag</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu116"><span>Hyttene</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu120"><span>Bli medlem!</span></a></li><li><a href="#" class="havechild-mainlevel-trans" id="menu123"><span>English</span></a></li></ul>
+			<script language="javascript" type="text/javascript">
+			if (TransMenu.isSupported()) {
+				TransMenu.updateImgPath('http://www.skiklubben.no/templates/ja_mercury/ja_transmenu/');
+				var ms = new TransMenuSet(TransMenu.direction.down, 0, 0, TransMenu.reference.bottomLeft);
+				TransMenu.subpad_x = 0;
+				TransMenu.subpad_y = 0;
+
+			
+				document.getElementById("menu77").onmouseover = function() {
+					ms.hideCurrent();
+				}
+				var tmenu78 = ms.addMenu(document.getElementById("menu78"));
+tmenu78.addItem("Om oss", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=49&Itemid=79", 0, 0);
+tmenu78.addItem("Skiinstruktørene", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=9&Itemid=80", 0, 0);
+tmenu78.addItem("Bymarkveteranene", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=10&Itemid=81", 0, 0);
+tmenu78.addItem("Løypekjørerne", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=12&Itemid=82", 0, 0);
+tmenu78.addItem("Dugnader", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=13&Itemid=83", 0, 0);
+tmenu78.addItem("Skimuseet", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=14&Itemid=84", 0, 0);
+tmenu78.addItem("Sponsorer", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=15&Itemid=85", 0, 0);
+tmenu78.addItem("Samarbeidende organisasjoner", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=16&Itemid=86", 0, 0);
+tmenu78.addItem("Kontakt oss", "http://www.skiklubben.no/index.php?option=com_contact&catid=51&Itemid=88", 0, 0);
+tmenu78.addItem("Nyheter", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=17&Itemid=89", 0, 0);
+var tmenu90 = ms.addMenu(document.getElementById("menu90"));
+tmenu90.addItem("Dagens Løype", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=18&Itemid=91", 0, 0);
+tmenu90.addItem("Nyttårsfeiring", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=20&Itemid=93", 0, 0);
+tmenu90.addItem("Gråkallen Skifestival", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=61&Itemid=150", 0, 0);
+tmenu90.addItem("Markatrimmen", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=21&Itemid=94", 0, 0);
+tmenu90.addItem("Gråkallen Skileik", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=22&Itemid=95", 0, 0);
+tmenu90.addItem("Skoleskidager", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=23&Itemid=96", 0, 0);
+tmenu90.addItem("Gråkallen Skisenter (Kleiva)", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=25&Itemid=98", 0, 0);
+tmenu90.addItem("Skiutleie", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=26&Itemid=99", 0, 0);
+tmenu90.addItem("Gråkallen Skipark", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=60&Itemid=151", 0, 0);
+tmenu90.addItem("Instruktørbakken", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=24&Itemid=97", 0, 0);
+tmenu90.addItem("Onsdagstrimmen", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=29&Itemid=92", 0, 0);
+var tmenu100 = ms.addMenu(document.getElementById("menu100"));
+tmenu100.addItem("Søndagsturen", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=30&Itemid=101", 0, 0);
+tmenu100.addItem("Soppkontroll", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=27&Itemid=104", 0, 0);
+tmenu100.addItem("Til Topps", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=28&Itemid=103", 0, 0);
+tmenu100.addItem("Sykkel", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=59&Itemid=149", 0, 0);
+tmenu100.addItem("Onsdagstrimmen", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=29&Itemid=102", 0, 0);
+var tmenu105 = ms.addMenu(document.getElementById("menu105"));
+tmenu105.addItem("Barneskikursene", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=34&Itemid=106", 0, 0);
+tmenu105.addItem("Skiskole", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=33&Itemid=107", 0, 0);
+tmenu105.addItem("Instruktørkurs", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=32&Itemid=108", 0, 0);
+tmenu105.addItem("Smørekurs", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=31&Itemid=109", 0, 0);
+var tmenu110 = ms.addMenu(document.getElementById("menu110"));
+tmenu110.addItem("Føremelding", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=39&Itemid=111", 0, 1);
+tmenu110.addItem("Kart", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=38&Itemid=112", 0, 0);
+tmenu110.addItem("Buss", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=37&Itemid=113", 0, 0);
+tmenu110.addItem("Parkering", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=36&Itemid=114", 0, 0);
+tmenu110.addItem("Brøytede Turveier", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=35&Itemid=115", 0, 0);
+tmenu110.addItem("Værmelding", "http://www.skiklubben.no/index.php?option=com_wrapper&Itemid=145", 0, 0);
+tmenu110.addItem("Webkamera", "http://www.skiklubben.no/index.php?option=com_content&task=view&id=295&Itemid=143", 0, 0);
+var tmenu116 = ms.addMenu(document.getElementById("menu116"));
+tmenu116.addItem("Om hyttene", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=42&Itemid=117", 0, 0);
+tmenu116.addItem("Skistua", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=41&Itemid=118", 0, 0);
+tmenu116.addItem("Åpningstider", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=40&Itemid=119", 0, 0);
+var tmenu120 = ms.addMenu(document.getElementById("menu120"));
+tmenu120.addItem("Medlemsskap", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=44&Itemid=121", 0, 0);
+tmenu120.addItem("Meld deg inn!", "http://www.skiklubben.no/index.php?option=com_content&task=view&id=123&Itemid=139", 0, 0);
+var tmenu123 = ms.addMenu(document.getElementById("menu123"));
+tmenu123.addItem("About us", "http://www.skiklubben.no/index.php?option=com_content&task=blogcategory&id=47&Itemid=124", 0, 0);
+
+				TransMenu.renderAll();
+			}
+			init1=function(){TransMenu.initialize();}
+			if (window.attachEvent) {
+				window.attachEvent("onload", init1);
+			}else{
+				TransMenu.initialize();			
+			}
+			</script>
+		<!-- End menu -->
+
+		</div>
+	</div>
+	<!-- END: TOPNAV -->
+	
+	
+	
+	<!-- BEGIN: HEADER -->
+
+	<!-- END: HEADER -->
+	<div id="ja-gray-bar">
+	</div>
+		
+	<div class="wide fs3" id="ja-pathway-outer">
+		<!-- BEGIN: COLOR BAR -->
+		 
+      <div id="ja-pathway">
+        <span class="pathway"><a href="http://www.skiklubben.no/index.php" class="pathway">Start</a> <img src="http://www.skiklubben.no/templates/ja_mercury/images/arrow.png" border="0" alt="arrow" />   Marka i dag <img src="http://www.skiklubben.no/templates/ja_mercury/images/arrow.png" border="0" alt="arrow" /> <a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=blogcategory&amp;id=39&amp;Itemid=111" class="pathway">Føremelding</a> <img src="http://www.skiklubben.no/templates/ja_mercury/images/arrow.png" border="0" alt="arrow" />   Føremelding mandag 1 desember </span> 
+      </div>
+    		
+    <div class="wide fs3" id="ja-usertools">
+		
+    		
+		</div>
+		<!-- END: COLOR BAR -->
+	</div>
+		
+	<!-- BEGIN: WRAPPER -->
+	<div id="ja-wrapper1">
+		<div id="ja-wrapper2">
+			<div id="ja-wrapper3">
+
+				<!-- BEGIN: WRAPPER INNER1 -->
+				<div class="clearfix" id="ja-wrapper-">
+					
+										<!-- BEGIN: LEFTCOL -->
+					<div class="wide fs3" id="ja-leftcol">
+												
+								<div class="moduletable">
+							<h3>
+					Siste Nyheter				</h3>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=view&amp;id=478&amp;Itemid=25" class="latestnews">
+			Gråkallen Skipark, reguleringsarbeidet kan starte</a>
+	</li>
+		<li class="latestnews">
+		<a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=view&amp;id=470&amp;Itemid=25" class="latestnews">
+			Barneskikursene 2009 - Påmelding åpnet!!</a>
+	</li>
+		<li class="latestnews">
+		<a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=view&amp;id=455&amp;Itemid=25" class="latestnews">
+			Barneskikursene 2009 - Snart starter påmeldingen!</a>
+	</li>
+		<li class="latestnews">
+		<a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=25" class="latestnews">
+			Første snøfall øverst i marka</a>
+	</li>
+		<li class="latestnews">
+		<a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=view&amp;id=440&amp;Itemid=25" class="latestnews">
+			Benytt godværet til en tur i marka</a>
+	</li>
+	</ul>		</div>
+				<div class="moduletable">
+			
+<table cellspacing="0" border="0" cellpadding="0" width="100%">
+<tr align="left"><td><a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=blogcategory&amp;id=17&amp;Itemid=132" class="mainlevel">Alle Nyheter</a></td></tr>
+</table>		</div>
+				<div class="moduletable">
+							<h3>
+					Bli medlem				</h3>
+				
+<table cellspacing="0" border="0" cellpadding="0" width="100%">
+<tr align="left"><td><span class="mainlevel">Bli medlem!</span>
+
+<div style="padding-left: 4px"><img src="http://www.skiklubben.no/templates/ja_mercury/images/indent1.png" alt="" /><a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=blogcategory&amp;id=44&amp;Itemid=129" class="sublevel">Medlemsskap</a></div>
+<div style="padding-left: 4px"><img src="http://www.skiklubben.no/templates/ja_mercury/images/indent1.png" alt="" /><a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=view&amp;id=123&amp;Itemid=139" class="sublevel">Meld deg inn!</a></div>
+</td></tr>
+</table>		</div>
+				<div class="moduletable">
+							<h3>
+					Arkiv				</h3>
+				<ul>        <li>
+                <a href="http://www.skiklubben.no/index.php?option=com_content&amp;task=archivecategory&amp;year=2006&amp;month=11&amp;module=1">
+                        november, 2006</a>
+        </li>
+        </ul>		</div>
+								<script type="text/javascript" src="http://www.yr.no/sted/Norge/Sør-Trøndelag/Trondheim/Skistua/ekstern_boks_liten.js"></script><noscript><a href="http://www.yr.no/sted/Norge/Sør-Trøndelag/Trondheim/Skistua/">Værvarsel for Skistua</a></noscript>
+					</div>
+					<!-- END: LEFTCOL -->
+										
+					<!-- BEGIN: CONTENT -->
+					<div id="ja-content">
+						
+						<!-- BEGIN: MAIN CONTENT -->
+										<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Føremelding mandag 1 desember									</td>
+								<td class="buttonheading" align="right" width="100%">
+					<a href="http://www.skiklubben.no/index2.php?option=com_content&amp;task=view&amp;id=476&amp;pop=1&amp;page=0&amp;Itemid=111" title="Skriv ut" onclick="window.open('http://www.skiklubben.no/index2.php?option=com_content&amp;task=view&amp;id=476&amp;pop=1&amp;page=0&amp;Itemid=111','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" target="_blank">
+						<img name="Skriv ut" src="http://www.skiklubben.no/templates/ja_mercury/images/printButton.png" border="0" alt="Skriv ut" align="middle" /></a>
+				</td>
+							<td class="buttonheading" align="right" width="100%">
+				<a href="http://www.skiklubben.no/index2.php?option=com_content&amp;task=emailform&amp;id=476&amp;itemid=111" title="E-post" onclick="window.open('http://www.skiklubben.no/index2.php?option=com_content&amp;task=emailform&amp;id=476&amp;itemid=111','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no'); return false;" target="_blank">
+					<img name="E-post" src="http://www.skiklubben.no/templates/ja_mercury/images/emailButton.png" border="0" alt="E-post" align="middle" /></a>
+			</td>
+						</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td class="createdate" valign="top" colspan="2">
+					mandag 01. desember 2008				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				Det har ikke kommet nedb&oslash;r siste d&oslash;gnet. Marka er kledd i sin flotteste drakt, hvit p&aring; bakken og tr&aelig;rne. Det er fine skiforhold i de fleste delene av marka. 
+<p>
+Skistua: Kommunens l&oslash;ypemaskin er ute og kj&oslash;rer. Det er planlagt kj&oslash;rt i 5 km i Henriks&aring;sen til Elgsethytta , videre til Gr&oslash;nlia og Marken. 
+</p>
+<p>
+Gran&aring;sen: Ingen kj&oslash;ring planlagt i dag. det ble i g&aring;r kj&oslash;rt Saupstad, kattem, Smistad, R&oslash;nningen; Marken, Stykket og Fr&oslash;set. 
+</p>
+<p>
+Estenstad: Forel&oslash;pig ikke planlagt kj&oslash;ring.&nbsp; 
+</p>
+<p>
+Det er fortsatt noen myrhull, og bekkene er &aring;pne. Det er enkelte steder noe humpete, pga litt lite sn&oslash; og lite eller ingen frost i bakken. 
+</p>
+<p>
+Skistua kl 09.00 temp minus 2 Celsius, Swix bl&aring; extra&nbsp; 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+&nbsp;
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+								<!-- END: MAIN CONTENT -->
+						
+					<!-- END: CONTENT -->
+					</div>
+					
+					<!-- BEGIN: RIGHTCOL -->
+										<div class="wide fs3" id="ja-rightcol">
+							<div id="ja-newsflash">
+										<div class="moduletable">
+			<link href="http://www.skiklubben.no/modules/mod_pixsearch_1_0/css/mod_pixsearch.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="http://www.skiklubben.no/modules/mod_pixsearch_1_0/js/mootools.js"></script><script type="text/javascript" src="http://www.skiklubben.no/modules/mod_pixsearch_1_0/js/mod_pixsearch.js"></script><form name="pp_search" action="index.php" id="pp_search" method="get">
+<div class="pixsearch">
+	<div class="ps_pretext"></div>
+	<input name="searchword" autocomplete="off" type="text" id="ps_search_str" value="Søk..." />
+	<input name="searchphrase" type="hidden" value="exact" />
+	<input name="limit" type="hidden" value="10" />
+	<input name="ordering" type="hidden" value="newest" />
+	<input name="Itemid" type="hidden" value="999999" />
+	<input name="option" type="hidden" value="com_search" />
+	<div class="ps_posttext"></div>
+	<div id="ps_results" style="margin-left:-600px;"></div>
+	<script type="text/javascript">
+	setSpecifiedLanguage(
+	'Resultat',
+	'Lukk',
+	'Søk...',
+	'Les Mer',
+	'Intet resultat',
+	'Avansert Søk',
+	'http://www.skiklubben.no/index.php?option=com_search',
+	'http://www.skiklubben.no',
+	'10',
+	'newest',
+	'exact',
+    '',
+    1,
+    'Vis hele resultatet',
+    1,
+	1,
+	1	);
+	</script>
+</div>
+<div id="pixsearch_tmpdiv" style="visibility:hidden;display:none;"></div>
+</form>		</div>
+				<div class="moduletable">
+							<h3>
+					Hovedsponsorer				</h3>
+				
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<table cellspacing="0" border="0" cellpadding="0" width="100">
+	<tbody>
+		<tr>
+			<td valign="top" align="center">
+			<div style="text-align: left">
+			<div align="center">
+			<a href="http://www.bunnpris.no/" target="_blank"><img title="bunnpris" src="images/stories/Sponsorer/bunnpris.gif" border="0" vspace="5" height="46" hspace="5" alt="bunnpris" align="left" width="149" /></a>  
+			</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" align="center">
+			<div style="text-align: left">
+			<div align="center">
+			<a href="https://www2.sparebank1.no" target="_blank"><img title="sp1_logo" src="images/stories/Sponsorer/sp1_logo.gif" border="0" vspace="5" height="34" hspace="5" alt="sp1_logo" align="left" width="150" /></a>  
+			</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" align="center" style="text-align: center">
+			<div align="left">
+			<a href="http://www.eiendomsmegler1.no/em1/" target="_blank"><img title="em1_logo" src="images/stories/Sponsorer/em1_logo.gif" border="0" vspace="5" height="34" hspace="5" alt="em1_logo" align="left" width="150" /></a> 
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+				</div>
+				<div class="moduletable">
+							<h3>
+					Ski og Skismøring				</h3>
+				
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<table cellspacing="0" border="0" cellpadding="0" align="left" width="100">
+	<tbody>
+		<tr>
+			<td valign="top" align="left"><a href="http://www.bruun.no/" target="_blank"><img title="thumb_axel_bruun_stor" src="images/stories/Sponsorer/thumbnails/thumb_axel_bruun_stor.jpg" border="0" vspace="5" height="27" hspace="5" alt="thumb_axel_bruun_stor" align="left" width="115" /></a> </td>
+		</tr>
+	</tbody>
+</table>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+				</div>
+									</div>
+							
+									<div class="moduletable">
+							<h3>
+					Samarbeidspartnere				</h3>
+				<table cellspacing="0" border="0" cellpadding="0" align="center" width="150">
+	<tbody>
+		<tr>
+			<td valign="middle" align="center"><a href="http://www.bruun.no" target="_blank">
+			<div style="text-align: center">
+			<img title="logo_axel_bruun" src="images/stories/Sponsorer/logo_axel_bruun.jpg" border="0" vspace="5" height="25" hspace="5" alt="logo_axel_bruun" align="left" width="81" />
+			</div>
+			</a></td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center"><a href="http://www.tev.no/" target="_blank">
+			<div style="text-align: center">
+			<img title="logo_trondheim_energi" src="images/stories/Sponsorer/logo_trondheim_energi.jpg" border="0" vspace="5" height="25" hspace="5" alt="logo_trondheim_energi" align="left" width="87" />
+			</div>
+			</a></td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center"><a href="http://www.kjeldsberg.no" target="_blank">
+			<div style="text-align: center">
+			<img title="kaffe" src="images/stories/Sponsorer/kaffe.jpg" border="0" vspace="5" height="35" hspace="5" alt="kaffe" align="left" width="90" />
+			</div>
+			</a></td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center">
+			<div style="text-align: center">
+			<a href="http://www.nonstopas.no" target="_blank"><img title="logo_nonstop_reklamebyr" src="images/stories/Sponsorer/logo_nonstop_reklamebyr.jpg" border="0" vspace="5" height="20" hspace="5" alt="logo_nonstop_reklamebyr" align="left" width="90" /></a> 
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center"><a href="http://www.myhre-as.no/" target="_blank">
+			<div style="text-align: center">
+			<img title="logo_myhre_og_snn" src="images/stories/Sponsorer/logo_myhre_og_snn.jpg" border="0" vspace="5" height="25" hspace="5" alt="logo_myhre_og_snn" align="left" width="85" />
+			</div>
+			</a></td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center"><a href="http://www.falkanger.no/" target="_blank">
+			<div style="text-align: center">
+			<img title="logo_falkanger" src="images/stories/Sponsorer/logo_falkanger.jpg" border="0" vspace="5" height="25" hspace="5" alt="logo_falkanger" align="left" width="93" />
+			</div>
+			</a></td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center">
+			<div style="text-align: center">
+			<a href="http://www.maskegruppen.no" target="_blank"><img title="maske_gruppen" src="images/stories/Sponsorer/maske_gruppen.jpg" border="0" vspace="5" height="34" hspace="5" alt="maske_gruppen" align="left" width="90" /></a> 
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center">
+			<div style="text-align: center">
+			<a href="http://www.iss.no" target="_blank"><img title="iss_facility_P296" src="images/stories/Sponsorer/iss_facility_P296.jpg" border="0" vspace="5" height="24" hspace="5" alt="iss_facility_P296" align="left" width="90" /></a> 
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center">
+			<div style="text-align: center">
+			<a href="http://www.motortrade.no" target="_blank"><img title="motortrade_logo_spesialist" src="images/stories/Sponsorer/motortrade_logo_spesialist.jpg" border="0" vspace="5" height="29" hspace="5" alt="motortrade_logo_spesialist" align="left" width="90" /></a> 
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="middle" align="center">
+			<div style="text-align: center">
+			<a href="http://www.trykkpartnerlade.no" target="_blank"><img title="trykkpartner_logo" src="images/stories/Sponsorer/trykkpartner_logo.jpg" border="0" vspace="5" height="24" hspace="5" alt="trykkpartner_logo" align="left" width="90" /></a>  
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+&nbsp;
+</p>
+		</div>
+							</div>
+										<!-- END: RIGHTCOL -->
+					<br />
+				</div>
+			<!-- END: WRAPPER INNER1 -->
+			</div>		
+		</div>
+	</div>
+  <!-- END: WRAPPER -->
+
+<!-- BEGIN: FOOTER -->
+	<div class="clearfix" id="ja-footer">
+		<div class="wide fs3" id="ja-footer-inner">
+								<table cellspacing="0" class="moduletable" cellpadding="0">
+				<tr>
+			<td>
+				
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<table border="0" align="center" width="900">
+	<tbody>
+		<tr>
+			<td valign="middle" align="center"><a href="index.php?option=com_contact&amp;catid=51&amp;Itemid=88"><span class="Ingress">Trondhjems Skiklub</span></a> <span class="Br&oslash;dtekst">| Telefon: 72 56 03 31 | Faks: </span>72 56 97 53| <span class="Br&oslash;dtekst">E-post: 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy4367 = 'p&#111;st' + '&#64;';
+ addy4367 = addy4367 + 'sk&#105;kl&#117;bb&#101;n' + '&#46;' + 'n&#111;';
+ var addy_text4367 = 'p&#111;st' + '&#64;' + 'sk&#105;kl&#117;bb&#101;n' + '&#46;' + 'n&#111;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy4367 + '\'>' );
+ document.write( addy_text4367 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Denne e-postadressen er beskyttet mot programmer som samler e-postadresser, du må slå på Javascript for å kunne se den.
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> | Postboks 1185, Nyborg - 7420 Trondheim</td>
+		</tr>
+	</tbody>
+</table>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					</td>
+		</tr>
+		</table>
+			
+			</div>
+		</div>
+	</div>
+	
+	<!-- END: FOOTER -->
+	
+
+
+</body>
+
+</html><!-- 1228566684 -->
+</scraper-file>
